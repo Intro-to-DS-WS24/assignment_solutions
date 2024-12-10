@@ -4,3 +4,7 @@ lets-plot==4.5.1
 requests==2.32.3
 lxml==5.3.0
 beautifulsoup4==4.12.3
+scikit-learn==1.5.2
+pyclustering==0.10.1.2
+statsmodels==0.14.4
+mlxtend==0.23.3
